@@ -1,5 +1,5 @@
 # YouTube App
-<p>App for Videos and Music.</p>
+<p>An app that offers access to a huge collection of videos and music. With the application, you can enjoy a diverse range of content, from music videos, tutorials, documentaries and more.</p>
 
 ### Screenshot
 
