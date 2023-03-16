@@ -1,4 +1,9 @@
 # YouTube App
+
+<p>If you found this project useful or interesting, please consider giving it a star! ⭐️</p>
+
+### Overview
+
 <p>An app that offers access to a huge collection of videos and music. With the application, you can enjoy a diverse range of content, from music videos, tutorials, documentaries and more.</p>
 
 ### Screenshot
